@@ -28,3 +28,22 @@ body{
     padding: 20px;
     width: 100px;
 }
+
+input {
+    outline: unset;
+    border: unset;
+    box-shadow: unset;
+    border: 1px solid #222;
+    width: 230px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.error{
+    background-color: rgb(255, 109, 109);
+    width: 230px;
+    height: 30px;
+    border: 3px solid rgb(255, 109, 109);
+    margin: 5px;
+}
