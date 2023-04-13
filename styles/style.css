@@ -1,8 +1,14 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color: #004566fa
+    /* background-color: #004566fa; */
+    background-image: url(../img/airport.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
 }
+
+
 
 .content{
     height: 100vh;
@@ -148,4 +154,3 @@ h3{
       opacity: 0;
     }
   }
-  
